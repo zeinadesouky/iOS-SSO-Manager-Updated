@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "SSOManager",
+    name: "SSOManagerV2",
     platforms: [
         .iOS(.v12)
     ],
